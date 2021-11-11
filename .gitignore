@@ -1,0 +1,5 @@
+.DS_Store
+# enviroments
+.envrc
+# vault config file
+config/vault.json
