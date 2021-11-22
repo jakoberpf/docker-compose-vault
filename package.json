@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "sync-dotenv": "^2.6.2"
+  }
+}
