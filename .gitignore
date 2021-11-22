@@ -1,4 +1,6 @@
 .DS_Store
+# node modules directory
+/node_modules
 # enviroments
 .envrc
 # vault config file
